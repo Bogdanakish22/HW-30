@@ -3,7 +3,6 @@
   height: 100px;
   position: relative;
   animation: mymove 5s infinite;
-  margin: 200px;
 }
 @keyframes mymove {
   0% {
